@@ -1,0 +1,9 @@
+numpy
+spconv>=2.0
+torch>=1.7
+numba
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
